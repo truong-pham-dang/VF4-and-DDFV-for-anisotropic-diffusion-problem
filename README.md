@@ -1,5 +1,5 @@
 # VF4-and-DDFV-for-anisotropic-diffusion-problem
-MATLAB version of [SCILAB code](https://math.unice.fr/~krell/index.php?page=CodeScilab) by Prof. Stella Krel. 
+MATLAB version of [SCILAB code](https://math.unice.fr/~krell/index.php?page=CodeScilab) by Prof. Stella Krell. 
 
 After executing, the code produces vtk files which could be imported in Paraview.
 User needs to open approximate_solution_1.vtk and approximate_solution_2.vtk simutaneously to see the overall countour of the solution.
